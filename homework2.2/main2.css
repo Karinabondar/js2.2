@@ -1,0 +1,12 @@
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around
+}
+
+.wrap div {
+    width: 18%;
+    background: lightsteelblue;
+    margin: 2px;
+
+}
